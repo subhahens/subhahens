@@ -5,7 +5,7 @@
 🚀 Currently learning C++, DSA & React  
 
 ## 🚀 Skills
-- C, C++, JavaScript  
+- ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white), C, JavaScript  
 - React, Node.js (beginner)  
 - Git, GitHub, Linux basics  
 
