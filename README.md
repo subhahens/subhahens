@@ -3,7 +3,7 @@
 🎓 2nd Year CSE Student @ [Your College Name]  
 💻 Interested in SDE, App Development & Problem Solving  
 🚀 Currently learning C++, DSA & React  
-
+![Visitor Count](https://komarev.com/ghpvc/?username=subhahens)
 ## 🚀 Skills
 - ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white), C, JavaScript  
 - React, Node.js (beginner)  
