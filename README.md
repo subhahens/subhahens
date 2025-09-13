@@ -4,10 +4,11 @@
 💻 Interested in SDE, App Development & Problem Solving  
 🚀 Currently learning C++, DSA & React  
 ![Visitor Count](https://komarev.com/ghpvc/?username=subhahens)
-## 🚀 Skills
-- ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white), C, JavaScript  
-- React, Node.js (beginner)  
-- Git, GitHub, Linux basics  
+
+### 🛠️ Skills & Tools
+- Languages: C, C++, JavaScript  
+- Web: HTML, CSS, React (learning)  
+- Tools: Git, GitHub, VS Code  
 
 ## 📌 Projects
 - [To-Do App](https://github.com/username/todo-app) – A simple task manager with local storage  
