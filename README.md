@@ -8,8 +8,9 @@
 ## 🚀 Skills & Tools
 - Languages: C, C++, JavaScript, python
 - Web: HTML, CSS, React
-- Tools: Git, GitHub, VS Code  
+- Tools: Git, GitHub, VS Code
 
+[![An image of @subhahens's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/subhahens)](https://holopin.io/@subhahens)
 ## 📊 GitHub Stats
 ![Subha's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhahens&show_icons=true&theme=radical)
 
